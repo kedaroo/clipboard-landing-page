@@ -1,7 +1,7 @@
 
 # Clipboard Landing Page
 
-A landing page made using Tailwind CSS for Clipboard App. I built this as practice for learning Tailwind CSS. 
+A landing page made using Tailwind CSS for Clipboard App. Built this as practice for learning Tailwind CSS. 
 
 
 ## Acknowledgements
