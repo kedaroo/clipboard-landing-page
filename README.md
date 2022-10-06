@@ -10,5 +10,4 @@ I am learning Tailwind CSS from [Brad Traversy](https://www.traversymedia.com/).
 
 
 ## Demo
-
-![Demo GIF](https://res.cloudinary.com/di2flcikt/image/upload/v1665072881/hosting/Screen_Recording_2022-10-06_at_09.41.16.60_PM_nhdzec.gif)
+![Screen Recording 2022-10-06 at 09 41 16 60 PM](https://user-images.githubusercontent.com/41827102/194375030-900434f4-a757-4f2c-8150-d84d6c5a194b.gif)
